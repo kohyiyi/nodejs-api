@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER uli.hitzel@gmail.com
+MAINTAINER you.can.find.sherin@gmail.com
 EXPOSE 8080
 ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Singapore
